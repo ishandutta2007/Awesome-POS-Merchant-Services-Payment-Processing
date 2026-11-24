@@ -1,271 +1,139 @@
-# Awesome-POS-Merchant-Services-Payment-Processing
+<div align="center">
 
-## Top POS & Merchant Services Payment Processing Ecosystem
+<a href="https://github.com/ishandutta2007/Awesome-POS-Merchant-Services-Payment-Processing">
+  <img src="assets/banner.svg" alt="Awesome POS Merchant Services &amp; Payment Processing Banner" width="100%" />
+</a>
 
+<br/><br/>
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-buueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-POS-Merchant-Services-Payment-Processing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-POS-Merchant-Services-Payment-Processing?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-POS-Merchant-Services-Payment-Processing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-POS-Merchant-Services-Payment-Processing?style=flat-square&color=blue" alt="GitHub Forks" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-POS-Merchant-Services-Payment-Processing/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+<br/>
 
-*Focused on Point-of-Sale (POS) Systems, Payment Orchestration, Merchant Billing, Retail/Restaurant Terminals & Self-Hosted Checkout*  
+# 💳 Awesome POS, Merchant Services & Payment Processing 🚀
 
-**Last updated: November 2026**
+**Curated collection of industry-leading SaaS platforms, merchant billing architectures, and production-ready open-source Point-of-Sale (POS) & payment switch repositories.**
 
+*Empowering retail stores, restaurants, e-commerce platforms, fintech engineers, and independent software vendors (ISVs) worldwide.*
 
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **POS & Merchant Services Payment Processing**. These tools enable retail stores, restaurants, e-commerce merchants, and developers to process in-person and online payments, manage inventory and kitchen displays, orchestrate multi-gateway transactions, and run self-hosted Point-of-Sale terminals.
-
-
-
-**Examples** include Square POS, Toast POS, Clover, Shopify POS, Lightspeed POS, Stripe Terminal, Revel Systems, TouchBistro, Heartland POS, Helcim, and `lelonio/square` (the category leaders). 
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosted retail and restaurant POS suites, open-source payment orchestration engines, subscription billing systems, and crypto/fiat checkout processors — ideal for merchants, fintech engineers, retail operators, and systems integrators.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Square POS](https://squareup.com)**  
-
-  All-in-one cloud Point-of-Sale and merchant payment processing platform offering hardware terminals, inventory tracking, invoicing, and omnichannel checkout.
-
-
-
-- **[Toast POS](https://toasttab.com)**  
-
-  Cloud-based restaurant management and Point-of-Sale platform featuring handheld ordering, Kitchen Display Systems (KDS), online ordering, and integrated payment processing.
-
-
-
-- **[Clover (Fiserv)](https://clover.com)**  
-
-  Commercial smart POS hardware and cloud merchant services ecosystem supporting retail, restaurant, and service-industry payment workflows.
-
-
-
-- **[Shopify POS](https://shopify.com)**  
-
-  Unified retail and e-commerce Point-of-Sale system synchronizing in-store card terminals, stock levels, customer profiles, and online storefronts.
-
-
-
-- **[Lightspeed POS](https://lightspeedhq.com)**  
-
-  Cloud commerce and Point-of-Sale platform tailored for multi-location retail, hospitality, and golf businesses with advanced inventory analytics.
-
-
-
-- **[Stripe Terminal](https://stripe.com)**  
-
-  Developer-first programmable in-person payment infrastructure extending Stripe's APIs and pre-certified card readers to custom POS applications.
-
-
-
-- **[Revel Systems](https://revelsystems.com)**  
-
-  Cloud-native iPad Point-of-Sale platform engineered for enterprise restaurants, quick-service chains, and high-volume retail operations.
-
-
-
-- **[TouchBistro](https://touchbistro.com)**  
-
-  Hospitality-focused iPad POS and restaurant management system covering tableside ordering, floor plans, reservations, and integrated payments.
-
-
-
-- **[Heartland POS](https://heartland.us)**  
-
-  Commercial merchant services, payroll, and Point-of-Sale suite serving restaurants, retail merchants, and enterprise payment processing.
-
-
-
-- **[Helcim](https://helcim.com)**  
-
-  Transparent interchange-plus merchant services provider offering cloud POS software, virtual terminals, invoicing, and contactless Tap-to-Phone payments.
-
-
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[lelonio/square](https://github.com)**  
-
-  Open-source Point-of-Sale and payment processing project inspired by Square, built for clean checkout workflows and developer customization.
-
-
-
-- **[Odoo Point of Sale (Community Edition)](https://github.com)**  
-
-  Full-featured open-source web-based retail and restaurant POS application with offline capability, barcode scanner support, loyalty programs, and ERP accounting sync.
-
-
-
-- **[ERPNext (Frappe POS)](https://github.com)**  
-
-  Comprehensive open-source ERP and retail POS system supporting multi-store inventory, batch/serial tracking, GST/tax compliance, and offline billing.
-
-
-
-- **[Hyperswitch (Juspay)](https://github.com)**  
-
-  High-performance open-source payment switch and orchestration engine written in Rust, unifying 50+ global payment processors, smart routing, and retries.
-
-
-
-- **[Kill Bill](https://github.com)**  
-
-  Enterprise-grade open-source subscription billing and payment platform supporting multi-gateway routing, invoicing, metering, and plugin extensibility.
-
-
-
-- **[Lago](https://github.com)**  
-
-  Open-source metering and usage-based billing API serving as a self-hosted alternative to Stripe Billing and Chargebee.
-
-
-
-- **[BTCPay Server](https://github.com)**  
-
-  Self-hosted, open-source cryptocurrency payment processor and web Point-of-Sale terminal with zero third-party fees, Lightning Network support, and Shopify/WooCommerce plugins.
-
-
-
-- **[uniCenta oPOS](https://sourceforge.net)**  
-
-  Popular open-source multi-terminal retail and hospitality Point-of-Sale software supporting receipt printers, cash drawers, barcode scanners, and kitchen displays.
-
-
-
-- **[Chromis POS](https://sourceforge.net)**  
-
-  Feature-rich open-source Java Point-of-Sale system forked from uniCenta/Openbravo POS with stock management, promotions, and multi-terminal sync.
-
-
-
-- **[Floreant POS](https://floreant.org)**  
-
-  Battle-tested open-source restaurant Point-of-Sale software featuring table management, kitchen ticket printing, split checks, and tip handling.
-
-
-
-- **[TastyIgniter](https://github.com)**  
-
-  Open-source Laravel-based restaurant online ordering, table reservation, and Point-of-Sale management platform.
-
-
-
-- **[SambaPOS / OpenPOS / Saleor POS](https://github.com)**  
-
-  Modular open-source GraphQL headless commerce engine supporting omnichannel retail checkout, multi-warehouse inventory, and custom POS frontends.
-
-
-
-- **[Medusa](https://github.com)**  
-
-  Open-source composable commerce engine built in Node.js/TypeScript enabling custom omnichannel POS checkout and payment provider plugins.
-
-
-
-- **[OpenCart & WooCommerce POS Plugins](https://github.com)**  
-
-  Open-source browser-based Point-of-Sale interfaces turning WooCommerce stores into fast local retail registers with offline IndexedDB caching.
-
-
-
-- **[Spree Commerce](https://github.com)**  
-
-  Open-source Ruby on Rails commerce and multi-vendor marketplace platform with extensible payment gateway integrations and omnichannel order management.
-
-
-
-- **[Payum](https://github.com)**  
-
-  Open-source PHP payment processing library offering a unified abstraction layer across dozens of payment gateways, capture flows, and refunds.
-
-
-
-- **[ActiveMerchant (Shopify)](https://github.com)**  
-
-  Time-tested open-source Ruby abstraction library standardizing credit card processing and gateway APIs across 100+ merchant processors.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[GNUCash](https://github.com)** and **[Akaunting](https://github.com)** for open-source double-entry bookkeeping, invoicing, and merchant expense tracking synced with POS sales.
-
-- **[Invoice Ninja](https://github.com)** for self-hosted merchant invoicing, payment links, and multi-gateway checkout portals.
-
-- **[ESC/POS Thermal Printer Libraries (`python-escpos` / `node-escpos`)](https://github.com)** for driving USB, serial, and network receipt printers directly from open-source POS apps.
-
-- **[WebHID / WebSerial Barcode & Card Reader Bridges](https://github.com)** for connecting hardware peripherals directly to browser-based POS terminals.
-
-- Many community **Indian UPI QR dynamic checkout generators**, **ISO 8583 financial message parsers**, and **EMV TLV card-data decoders** for payment engineering.
-
-
-
-**Frameworks for building custom systems**: Combine **Odoo POS** or **ERPNext**, **Hyperswitch** (for multi-gateway payment routing), **Lago / Kill Bill**, and **python-escpos** with **lelonio/square** for a sovereign, low-fee POS and merchant payment stack.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Processing, transmitting, or storing cardholder data requires strict compliance with **PCI-DSS** (Payment Card Industry Data Security Standard) and regional financial regulations (e.g., RBI payment aggregator guidelines, PSD2/SCA, FinCEN); always delegate raw card capture to PCI-certified terminals or tokenized iframes.
-
-- Ensure Point-of-Sale billing software complies with local tax, e-invoicing, and fiscal receipt laws before deploying in production retail or hospitality environments.
-
-
+</div>
 
 ---
 
+## 📑 Table of Contents
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Platforms](#-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Complementary Libraries & Toolkits](#️-complementary-libraries--toolkits)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚖️ Disclaimer & Compliance](#️-disclaimer--compliance)
 
+---
 
-**Made for merchants, fintech engineers, retail/hospitality operators, and payment systems architects.**  
+## 🌐 Sector Overview & Market Dynamics
 
-Let's make Point-of-Sale and merchant payment processing more transparent, resilient, and open.
+The global Point-of-Sale (POS) and merchant payment processing software market was valued at approximately **$29.5 billion in 2024** and is projected to surpass **$82.4 billion by 2032**, expanding at a compound annual growth rate (**CAGR**) of roughly **13.7%**. Concurrently, global digital payment transaction volume exceeded **$11.5 trillion**, propelled by contactless Tap-to-Pay, unified omnichannel commerce, and cloud-native merchant acquirers.
+
+The sector is **moderately fragmented**: while payment acquiring infrastructure and raw processing are heavily concentrated among a handful of global mega-institutions (such as Fiserv, Stripe, Adyen, and Global Payments), the front-end software, specialized vertical POS (e.g., Toast for full-service dining, Shopify for DTC omnichannel retail, Lightspeed for specialty golf/apparel), and localized billing workflows remain broadly distributed with strong competition across vertical niches and emerging self-hosted alternatives.
+
+---
+
+## 🏢 SaaS/Hosted Platforms
+
+The following table features top commercial Point-of-Sale and merchant acquiring platforms, sorted by **Company Size (Revenue / Valuation) in descending order**.
+
+| Rank | Platform | Valuation / Revenue | Starting Price | Free Tier / Trial Limits | Key Specialization & Architecture |
+|:---:|:---|:---|:---|:---|:---|
+| 1 | **[Clover](https://clover.com)** (by Fiserv) | **$85B+** Market Cap (Fiserv parent, ~$19B Ann. Rev.) | **$14.95/mo** (Payments Plus SaaS) + 2.3% + 10¢ card-present transaction fees | **30-day trial** available via select merchant bank partners; requires purchasing or leasing proprietary Clover hardware. | Omnichannel smart hardware (Flex, Mini, Station) and merchant acquiring ecosystem for high-volume retail & restaurants. |
+| 2 | **[Shopify POS](https://shopify.com)** | **$135B+** Market Cap (~$7.0B Ann. Rev.) | **$39/mo** (Basic Shopify plan including Shopify POS Lite) + 2.9% + 30¢ online / 2.5% in-person fees | **3-day free trial** with full platform access, followed by promotional **$1/month for the first month**; POS Pro is an optional $89/mo/location add-on. | Unified multi-store POS syncing e-commerce inventory, customer CRM, gift cards, and Tap-to-Pay card readers. |
+| 3 | **[Stripe Terminal](https://stripe.com)** | **$70B+** Valuation (~$16B+ Net Revenue) | **$0/mo platform fee**; pay-per-transaction from **2.7% + 5¢** per card-present transaction | **Pay-as-you-go free tier forever** with 100% full sandbox API access, zero monthly subscriptions, and unlimited test card simulations. | Programmable hardware SDKs (iOS, Android, React Native, Server-driven) connecting pre-certified smart readers to custom POS apps. |
+| 4 | **[Square POS](https://squareup.com)** (by Block, Inc.) | **$45B+** Market Cap (Block, ~$21B Gross Revenue) | **$0/mo base plan**; **2.6% + 10¢** per in-person swipe, dip, or tap transaction | **Free forever plan** with no monthly software subscription, unlimited devices, and basic inventory tracking; Square for Restaurants Plus has a **30-day free trial**. | Turnkey all-in-one cloud POS, Tap-to-Pay on iPhone/Android, kitchen display systems (KDS), invoicing, and merchant banking. |
+| 5 | **[Heartland POS](https://heartland.us)** (by Global Payments) | **$30B+** Market Cap (Global Payments parent, ~$9.8B Ann. Rev.) | **$69/mo** starting POS software license per terminal + custom interchange-plus acquiring fees | **No free tier**; custom merchant demonstration and **14-day assisted pilot evaluation** arranged through enterprise sales representatives. | Robust enterprise hospitality and retail POS terminals with integrated payroll, time-clock tracking, and multi-location merchant processing. |
+| 6 | **[Toast POS](https://toasttab.com)** | **$16B+** Market Cap (~$4.5B Ann. Rev.) | **$0/mo** (Quick Start Pay-As-You-Go plan at 2.99% + 15¢ processing) or standard **$69/mo** core terminal software | **$0/mo Starter plan** with single-terminal hardware financing included; paid plans offer interactive guided sandbox demo upon sales request. | Comprehensive restaurant operating system featuring rugged handheld terminals (Toast Go), KDS, online delivery dispatch, and menu engineering. |
+| 7 | **[Lightspeed POS](https://lightspeedhq.com)** | **$2.5B+** Market Cap (~$900M Ann. Rev.) | **$89/mo** (Basic Retail plan billed annually) + 2.6% + 10¢ card processing | **14-day free trial** with full access to inventory management, barcode scanning, register workflows, and reporting without credit card upfront. | Advanced multi-location retail, restaurant, and golf clubhouse POS software with deep matrix inventory and supplier integrations. |
+| 8 | **[Revel Systems](https://revelsystems.com)** (by Shift4) | **$1.8B** Valuation / Acquired for $250M by Shift4 (~$8B Market Cap) | **$99/mo** per terminal (billed annually, 2-terminal minimum contract) + merchant processing | **No free tier**; interactive **30-day sandbox pilot** available for qualified multi-unit franchise operators upon sales onboarding. | Enterprise-grade iPad Point-of-Sale architecture supporting high-volume quick service, franchise management, and open API connectivity. |
+| 9 | **[TouchBistro](https://touchbistro.com)** | **$600M+** Valuation (~$80M Ann. Rev.) | **$69/mo** single-license iPad software + customized merchant acquiring rates | **Interactive product tour & 7-day sandbox trial** on request; live demo environment pre-populated with hospitality menu databases. | Hybrid-cloud tableside iPad POS built specifically for restaurants, bars, breweries, and food trucks with offline local network resilience. |
+| 10 | **[Helcim](https://helcim.com)** | **$150M+** Estimated Valuation (~$35M Ann. Rev.) | **$0/mo software subscription**; transparent Interchange + 0.40% + 8¢ per in-person transaction | **Free forever software account** with zero monthly fees, zero cancellation fees, unlimited virtual terminals, hosted invoicing, and developer APIs. | Merchant-first transparent interchange-plus processor featuring free Point-of-Sale apps, virtual terminals, and automated rate discounts as volume scales. |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+Curated list of production-grade open-source Point-of-Sale systems, self-hosted payment switches, and billing engines, sorted by **GitHub Stars in descending order**.
+
+| Project | Stars Badge | Stargazers Link | Architecture & Stack | Primary Category & Capabilities |
+|:---|:---:|:---:|:---|:---|
+| **[Odoo Point of Sale](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | [View Stargazers](https://github.com/odoo/odoo/stargazers) | Python, JavaScript (OWL), PostgreSQL | Full-featured enterprise POS working 100% offline via local browser cache, automatic inventory reordering, barcode scanner support, and ledger accounting. |
+| **[Hyperswitch](https://github.com/juspay/hyperswitch)** | [![Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) | [View Stargazers](https://github.com/juspay/hyperswitch/stargazers) | Rust, PostgreSQL, Redis | High-speed, mission-critical payment router & orchestration switch connecting 50+ payment gateways, smart fallback routing, card vaults, and unified merchant checkouts. |
+| **[ERPNext POS](https://github.com/frappe/erpnext)** | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | [View Stargazers](https://github.com/frappe/erpnext/stargazers) | Python, Frappe Framework, MariaDB | Complete retail and wholesale Point-of-Sale module with multi-store inventory sync, customer loyalty points, GST/VAT fiscal compliance, and offline transaction queues. |
+| **[Medusa](https://github.com/medusajs/medusa)** | [![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) | [View Stargazers](https://github.com/medusajs/medusa/stargazers) | TypeScript, Node.js, PostgreSQL | Modular headless commerce engine empowering unified omnichannel retail checkouts, custom POS terminal frontends, multi-currency pricing, and extensible payment plugins. |
+| **[Saleor](https://github.com/saleor/saleor)** | [![Stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers) | [View Stargazers](https://github.com/saleor/saleor/stargazers) | Python, GraphQL, Django, PostgreSQL | Ultra-fast headless commerce platform tailored for omnichannel retail networks, custom iPad/tablet register frontends, and multi-channel fulfillment pipelines. |
+| **[Spree Commerce](https://github.com/spree/spree)** | [![Stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers) | [View Stargazers](https://github.com/spree/spree/stargazers) | Ruby on Rails, PostgreSQL | Open-source enterprise headless e-commerce and POS framework supporting credit card tokenization, physical gift cards, multi-store stock, and third-party gateway hooks. |
+| **[Lago](https://github.com/getlago/lago)** | [![Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) | [View Stargazers](https://github.com/getlago/lago/stargazers) | Go, Ruby on Rails, PostgreSQL | Open-source metering, billing engine, and merchant subscription management platform functioning as a transparent self-hosted alternative to Stripe Billing and Chargebee. |
+| **[WooCommerce](https://github.com/woocommerce/woocommerce)** | [![Stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers) | [View Stargazers](https://github.com/woocommerce/woocommerce/stargazers) | PHP, WordPress, MySQL | Open-source commerce suite powering thousands of retail registers via community POS plugins (e.g. WooCommerce POS) with offline register support and hardware bridges. |
+| **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** | [![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) | [View Stargazers](https://github.com/invoiceninja/invoiceninja/stargazers) | PHP (Laravel), Flutter, MySQL | Self-hosted merchant payment gateway and billing system offering customer payment portals, QR payment links, recurring merchant invoicing, and multi-gateway capture. |
+| **[Akaunting](https://github.com/akaunting/akaunting)** | [![Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers) | [View Stargazers](https://github.com/akaunting/akaunting/stargazers) | PHP (Laravel), Vue.js, MySQL | Free and open-source business management and accounting software featuring integrated POS apps, merchant expense tracking, banking feeds, and client billing portals. |
+| **[Crater](https://github.com/crater-invoice-inc/crater)** | [![Stars](https://img.shields.io/github/stars/crater-invoice-inc/crater?style=social&color=white)](https://github.com/crater-invoice-inc/crater/stargazers) | [View Stargazers](https://github.com/crater-invoice-inc/crater/stargazers) | PHP (Laravel), Vue.js, React Native | Open-source invoicing, billing, and merchant payment suite with mobile apps for on-the-go invoicing, estimate-to-invoice flows, and payment gateway webhooks. |
+| **[BTCPay Server](https://github.com/btcpayserver/btcpayserver)** | [![Stars](https://img.shields.io/github/stars/btcpayserver/btcpayserver?style=social&color=white)](https://github.com/btcpayserver/btcpayserver/stargazers) | [View Stargazers](https://github.com/btcpayserver/btcpayserver/stargazers) | C#, ASP.NET Core, PostgreSQL | Sovereign, self-hosted cryptocurrency payment processor featuring a built-in browser-based POS terminal app, Lightning Network instant settlement, and zero intermediary fees. |
+| **[Kill Bill](https://github.com/killbill/killbill)** | [![Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) | [View Stargazers](https://github.com/killbill/killbill/stargazers) | Java, OSGi, MySQL/PostgreSQL | Enterprise-grade subscription billing, invoice generation, and payment gateway routing system trusted by global telecom, cloud, and merchant processing architectures. |
+| **[Solidus](https://github.com/solidusio/solidus)** | [![Stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers) | [View Stargazers](https://github.com/solidusio/solidus/stargazers) | Ruby on Rails, PostgreSQL | Fork of Spree Commerce designed for mission-critical e-commerce, custom point-of-sale checkout integration, omnichannel inventory, and complex merchant processing rules. |
+| **[ActiveMerchant](https://github.com/activemerchant/active_merchant)** | [![Stars](https://img.shields.io/github/stars/activemerchant/active_merchant?style=social&color=white)](https://github.com/activemerchant/active_merchant/stargazers) | [View Stargazers](https://github.com/activemerchant/active_merchant/stargazers) | Ruby | The gold-standard payment abstraction library originally developed by Shopify, unifying 140+ merchant gateways, card tokenization APIs, and refund webhooks. |
+| **[Open Source Point of Sale (OSPOS)](https://github.com/opensourcepos/opensourcepos)** | [![Stars](https://img.shields.io/github/stars/opensourcepos/opensourcepos?style=social&color=white)](https://github.com/opensourcepos/opensourcepos/stargazers) | [View Stargazers](https://github.com/opensourcepos/opensourcepos/stargazers) | PHP (CodeIgniter), Bootstrap, MySQL | Highly popular web-based Point-of-Sale system built for small retail businesses, featuring barcode scanning, item kits, customer accounts, and tax reporting. |
+| **[TastyIgniter](https://github.com/tastyigniter/TastyIgniter)** | [![Stars](https://img.shields.io/github/stars/tastyigniter/TastyIgniter?style=social&color=white)](https://github.com/tastyigniter/TastyIgniter/stargazers) | [View Stargazers](https://github.com/tastyigniter/TastyIgniter/stargazers) | PHP (Laravel), MySQL | Open-source restaurant management system combining digital table reservations, online food ordering, kitchen workflows, and tableside POS ticketing. |
+| **[Payum](https://github.com/Payum/Payum)** | [![Stars](https://img.shields.io/github/stars/Payum/Payum?style=social&color=white)](https://github.com/Payum/Payum/stargazers) | [View Stargazers](https://github.com/Payum/Payum/stargazers) | PHP | Flexible payment processing library for PHP applications offering a clean protocol abstraction across PayPal, Stripe, Klarna, Authorize.Net, and custom gateways. |
+| **[python-escpos](https://github.com/python-escpos/python-escpos)** | [![Stars](https://img.shields.io/github/stars/python-escpos/python-escpos?style=social&color=white)](https://github.com/python-escpos/python-escpos/stargazers) | [View Stargazers](https://github.com/python-escpos/python-escpos/stargazers) | Python | Hardware driver library for controlling ESC/POS thermal receipt printers over USB, Serial, Network/Ethernet, and Bluetooth from open-source POS registers. |
+| **[Store-POS](https://github.com/tngoman/Store-POS)** | [![Stars](https://img.shields.io/github/stars/tngoman/Store-POS?style=social&color=white)](https://github.com/tngoman/Store-POS/stargazers) | [View Stargazers](https://github.com/tngoman/Store-POS/stargazers) | React, Electron, Express, SQLite | Modern desktop Point-of-Sale client for retail shops with multi-terminal LAN synchronization, photo catalogs, cash drawer triggers, and receipt printing. |
+| **[Lelonio Square](https://github.com/Lelonio/Square)** | [![Stars](https://img.shields.io/github/stars/Lelonio/Square?style=social&color=white)](https://github.com/Lelonio/Square/stargazers) | [View Stargazers](https://github.com/Lelonio/Square/stargazers) | JavaScript, CSS, HTML | Clean, responsive open-source Point-of-Sale interface modeled after Square Register for quick in-browser checkout prototypes and merchant demonstrations. |
+| **[POS-Awesome](https://github.com/ucraft-com/POS-Awesome)** | [![Stars](https://img.shields.io/github/stars/ucraft-com/POS-Awesome?style=social&color=white)](https://github.com/ucraft-com/POS-Awesome/stargazers) | [View Stargazers](https://github.com/ucraft-com/POS-Awesome/stargazers) | Vue.js, Vuetify, Frappe | Advanced single-page application (SPA) Point of Sale interface for ERPNext offering rapid barcode entry, multi-currency payments, offline registers, and shortcut key bindings. |
+| **[node-escpos](https://github.com/node-escpos/driver)** | [![Stars](https://img.shields.io/github/stars/node-escpos/driver?style=social&color=white)](https://github.com/node-escpos/driver/stargazers) | [View Stargazers](https://github.com/node-escpos/driver/stargazers) | JavaScript, Node.js | Cross-platform Node.js driver library for manipulating ESC/POS thermal ticket and receipt printers via USB, Network, Serial, or Raw Bluetooth adapters. |
+
+---
+
+## 🛠️ Complementary Libraries & Toolkits
+
+- **Receipt & Thermal Printer Drivers**:
+  - `python-escpos` & `node-escpos` for USB/Serial/TCP thermal receipt paper cut and cash-drawer kick pulses.
+  - `at-point-of-sale/ReceiptPrinterEncoder` for client-side JavaScript command generation across StarLine, StarPRNT, and ESC/POS.
+- **Hardware Peripherals (WebHID & WebSerial)**:
+  - Connect barcode scanners, weighing scales, and magnetic stripe card readers directly through modern Chromium browsers using the standard WebHID and WebSerial APIs without local driver daemons.
+- **Financial Messaging & Standards**:
+  - ISO 8583 message packers and unpackers for direct interchange communication with banking switches.
+  - EMV TLV (Type-Length-Value) decoders for reading chip and contactless NFC card data blocks.
+- **Architecture Blueprints**:
+  - Combine **Hyperswitch** (gateway orchestration) + **Odoo POS** or **ERPNext** (retail ERP & checkout till) + **Lago** (metered subscription billing) for a sovereign, zero-vendor-lock-in payment processing infrastructure.
+
+---
+
+## 🤝 How to Contribute
+
+We welcome contributions from merchants, developers, POS technicians, and fintech engineers! 🌟
+
+1. **Fork the repository** to your personal GitHub account.
+2. **Add or enhance entries** in `README.md`:
+   - Follow the established table formatting for SaaS or Open-Source categories.
+   - For SaaS tools: include starting tier pricing, free trial limits, and company valuation/revenue.
+   - For Open-Source projects: provide the repository link, star badge, tech stack, and clear architectural summary.
+3. **Keep descriptions objective and factual** without promotional marketing jargon.
+4. **Submit a Pull Request (PR)** with a concise description of your additions.
+
+---
+
+## ⚖️ Disclaimer & Compliance
+
+- **Community Curated**: This repository is curated for educational, architectural, and evaluation purposes and does not constitute an endorsement or financial advice.
+- **PCI-DSS Compliance**: Any organization storing, processing, or transmitting cardholder data must comply with the Payment Card Industry Data Security Standard (**PCI-DSS**). Always use certified P2PE (Point-to-Point Encryption) hardware, tokenized checkout iframes, or certified payment aggregator SDKs (e.g., Stripe Terminal, Square, Clover) to minimize your PCI scope (SAQ-A or SAQ-A-EP).
+- **Fiscal & Tax Regulation**: Ensure your Point-of-Sale deployment conforms to regional fiscal laws (such as French NF525 certification, German TSE / KassenSichV cash register regulations, and national electronic invoicing / GST requirements).
+
+---
+
+<div align="center">
+
+**[⬆ Back to Top](#-awesome-pos-merchant-services--payment-processing-)**
+
+Made with ❤️ for the global merchant and fintech engineering community.
+
+</div>
