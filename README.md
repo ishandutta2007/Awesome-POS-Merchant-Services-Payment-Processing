@@ -30,6 +30,8 @@
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ Complementary Libraries & Toolkits](#️-complementary-libraries--toolkits)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
 - [⚖️ Disclaimer & Compliance](#️-disclaimer--compliance)
 
 ---
@@ -119,6 +121,25 @@ We welcome contributions from merchants, developers, POS technicians, and fintec
    - For Open-Source projects: provide the repository link, star badge, tech stack, and clear architectural summary.
 3. **Keep descriptions objective and factual** without promotional marketing jargon.
 4. **Submit a Pull Request (PR)** with a concise description of your additions.
+
+---
+
+## 💖 Support
+
+If you find this repository helpful, please consider showing your support:
+- ⭐ **Star** this repository to help others discover it!
+- 🍴 **Fork** and contribute your insights, SaaS products, or open-source additions.
+- 📢 **Share** it with fellow fintech engineers, retail operators, and payment developers.
+- ☕ **Buy me a coffee**: Support ongoing curation and open-source maintenance via [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+## Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-POS-Merchant-Services-Payment-Processing&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-POS-Merchant-Services-Payment-Processing&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-POS-Merchant-Services-Payment-Processing&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-POS-Merchant-Services-Payment-Processing&type=date&legend=top-left)
 
 ---
 
