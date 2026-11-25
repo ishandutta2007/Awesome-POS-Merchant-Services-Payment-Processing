@@ -7,7 +7,7 @@
 <br/><br/>
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-buueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-POS-Merchant-Services-Payment-Processing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-POS-Merchant-Services-Payment-Processing?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-POS-Merchant-Services-Payment-Processing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-POS-Merchant-Services-Payment-Processing?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-POS-Merchant-Services-Payment-Processing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-POS-Merchant-Services-Payment-Processing?style=flat-square&color=blue" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-POS-Merchant-Services-Payment-Processing/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -65,9 +65,9 @@ The following table features top commercial Point-of-Sale and merchant acquiring
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of production-grade open-source Point-of-Sale systems, self-hosted payment switches, and billing engines, sorted by **GitHub Stars in descending order**.
+Curated list of production-grade open-source Point-of-Sale systems, self-hosted payment switches, and billing engines, sorted by **GitHub_Stars in descending order**.
 
-| Project | Stars Badge | Stargazers Link | Architecture & Stack | Primary Category & Capabilities |
+| Project | Stars_Badge | Stargazers Link | Architecture & Stack | Primary Category & Capabilities |
 |:---|:---:|:---:|:---|:---|
 | **[Odoo Point of Sale](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | [View Stargazers](https://github.com/odoo/odoo/stargazers) | Python, JavaScript (OWL), PostgreSQL | Full-featured enterprise POS working 100% offline via local browser cache, automatic inventory reordering, barcode scanner support, and ledger accounting. |
 | **[Hyperswitch](https://github.com/juspay/hyperswitch)** | [![Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) | [View Stargazers](https://github.com/juspay/hyperswitch/stargazers) | Rust, PostgreSQL, Redis | High-speed, mission-critical payment router & orchestration switch connecting 50+ payment gateways, smart fallback routing, card vaults, and unified merchant checkouts. |
@@ -118,7 +118,7 @@ We welcome contributions from merchants, developers, POS technicians, and fintec
 2. **Add or enhance entries** in `README.md`:
    - Follow the established table formatting for SaaS or Open-Source categories.
    - For SaaS tools: include starting tier pricing, free trial limits, and company valuation/revenue.
-   - For Open-Source projects: provide the repository link, star badge, tech stack, and clear architectural summary.
+   - For Open-Source projects: provide the repository link, Stars_Badge, tech stack, and clear architectural summary.
 3. **Keep descriptions objective and factual** without promotional marketing jargon.
 4. **Submit a Pull Request (PR)** with a concise description of your additions.
 
